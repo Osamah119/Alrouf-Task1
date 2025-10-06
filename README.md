@@ -451,7 +451,7 @@ const defaults = {
 A comprehensive video demonstration of the entire RFQ automation workflow is available: `video_for_Task1_Zapier.mp4`
 
 عرض فيديو شامل لمسار أتمتة RFQ الكامل متاح في الملف: `video_for_Task1_Zapier.mp4`
-
+![video](video_for_Task1_Zapier.mp4)
 ---
 
 ## Files Structure | هيكل الملفات
