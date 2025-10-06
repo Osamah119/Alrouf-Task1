@@ -438,10 +438,9 @@ const defaults = {
 
 **Slack Notification | إشعار Slack**
 ![Slack Notification](Screenshot_1_From_Slack.png)
-**Email From Cutomer | الايميل المرسل من العميل**
-![ُEmail](Picture6.png)
-### System Overview | نظرة عامة على النظام
 
+**Email From Cutomer | الايميل المرسل من العميل**
+![Email](Picture6.png)
 
 
 ### Video Demonstration | عرض فيديو
@@ -492,4 +491,5 @@ This project is proprietary and confidential.
 **صُنع بـ ❤️ لشركة الروف**
 
 </div>
+
 
